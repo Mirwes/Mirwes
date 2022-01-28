@@ -6,4 +6,5 @@ I'm a Full Stack Developer, who loves to code!
 🥅 2022 Goals: Contributions. Contribute to Open Source projects. Learn More About - TypeScript, Next.js
 ⚡ Fun Fact: I love to workout & enjoy traveling to new places.
 
-🌐 JavaScript |React | Redux | HTML | CSS | SASS| NODE | EXPRESS | SQLite | Heroku | Vercel | Netlify | Visual Studio Code | Git | Github | 🖥
+🌐 JavaScript |React | Redux | HTML | CSS | SASS| NODE | EXPRESS | SQLite | Heroku | Vercel | Netlify |
+Visual Studio Code | Git | Github | 🖥
