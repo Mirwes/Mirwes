@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Mirwes
 
-<!--
-**Mirwes/Mirwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer, who loves to code!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+📚 I’m currently focusing on Algorithms, Building web applications, TypeScript, Next.js
+👯 I’m looking to collaborate with other passionate developers.
+🥅 2022 Goals: Contributions. Contribute to Open Source projects. Learn More About - TypeScript, Next.js
+⚡ Fun Fact: I love to workout & enjoy traveling to new places.
+
+🌐 JavaScript |React | Redux | HTML | CSS | SASS| NODE | EXPRESS | SQLite | Heroku | Vercel | Netlify | Visual Studio Code | Git | Github | 🖥
